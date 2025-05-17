@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/thomiboi/thomiboi/master/banner-image-github.png" alt="banner thomiboi">
 
-# 💫 About Me:
+# 💫 Acerca de mi:
 🔭 Actualmente estoy trabajando en proyectos web y un portafolio que sirva como cotizador. <br>👯 Quiero colaborar en cualquier proyecto que sea interesante y que me llame la atención.<br>🤝 Estoy buscando ayudar a ONG's con aplicaciones móviles, páginas webs o lo que se necesite.<br>🌱Actualmente estoy aprendiendo OpenCV y reforzando mis bases en SQL
 
 
