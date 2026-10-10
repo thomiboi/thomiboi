@@ -11,20 +11,38 @@ Soy Ingeniero en Informática, con experiencia en desarrollo Full Stack, ingenie
 
 ## Tecnologías
 
-| Categoría | Tecnologías |
-|---|---|
-| **Lenguajes** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css" alt="TypeScript, JavaScript, Python, Java, HTML y CSS" /><br>TypeScript · JavaScript · Python · Java · SQL · HTML · CSS |
-| **Frontend y móvil** | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ionic,tailwind" alt="React, Next.js, Angular, Ionic y Tailwind CSS" /><br>React · Next.js · Angular · Ionic · Tailwind CSS |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,django,prisma" alt="Node.js, Django y Prisma ORM" /><br>Node.js · Django · Prisma ORM · API REST |
-| **Bases de datos e ingeniería de datos** | <img src="https://skillicons.dev/icons?i=postgres,firebase" alt="PostgreSQL y Firebase" /><br>PostgreSQL · Oracle Database · Firebase Firestore · Modelado analítico · Data Warehouses · Pipelines ETL |
-| **Cloud, hosting y control de versiones** | <img src="https://skillicons.dev/icons?i=azure,git,github,vercel,netlify" alt="Microsoft Azure, Git, GitHub, Vercel y Netlify" /><br>Microsoft Azure · Git · GitHub · Vercel · Netlify |
-| **CMS y gestión** | Contentful · Jira · Trello |
+<h3 align="center">Lenguajes</h3>
+<p align="center">
+  <img src="https://i.icoziv.workers.dev/icons?i=typescript,javascript,python,java,sql,html,css" alt="TypeScript, JavaScript, Python, Java, SQL, HTML y CSS" />
+</p>
+
+<h3 align="center">Frontend y desarrollo móvil</h3>
+<p align="center">
+  <img src="https://i.icoziv.workers.dev/icons?i=reactjs,nextjs,angularjs,ionic,tailwindcss" alt="React, Next.js, Angular, Ionic y Tailwind CSS" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://i.icoziv.workers.dev/icons?i=nodejs,django,prisma,rest" alt="Node.js, Django, Prisma ORM y API REST" />
+</p>
+
+<h3 align="center">Bases de datos e ingeniería de datos</h3>
+<p align="center">
+  <img src="https://i.icoziv.workers.dev/icons?i=postgresql,oracle,firestore" alt="PostgreSQL, Oracle Database y Firebase Firestore" />
+  <br />Modelado analítico · Data Warehouses · Pipelines ETL
+</p>
+
+<h3 align="center">Cloud, herramientas y gestión</h3>
+<p align="center">
+  <img src="https://i.icoziv.workers.dev/icons?i=azure,git,github,contentful,vercel,netlify,jira,trello" alt="Microsoft Azure, Git, GitHub, Contentful, Vercel, Netlify, Jira y Trello" />
+</p>
 
 ## Tecnologías que estoy aprendiendo
 
-<img src="https://skillicons.dev/icons?i=spring,cs,cpp" alt="Spring Boot, C# y C++" />
-
-Spring Boot · C# · C++
+<h3 align="center">En aprendizaje</h3>
+<p align="center">
+  <img src="https://i.icoziv.workers.dev/icons?i=springboot,csharp,cpp" alt="Spring Boot, C# y C++" />
+</p>
 
 ## Certificaciones e idiomas
 
