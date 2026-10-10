@@ -7,7 +7,7 @@
   <a href="https://thomi.dev">
     <img src="https://img.shields.io/badge/Portafolio-Visitar-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar portafolio" />
   </a>
-  <a href="[www.linkedin.com/in/thomidev](https://www.linkedin.com/in/thomidev/)">
+  <a href="https://www.linkedin.com/in/thomidev/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn" />
   </a>
   <a href="mailto:contacto@thomi.dev">
