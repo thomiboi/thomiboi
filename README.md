@@ -18,18 +18,17 @@ Soy Ingeniero en Informática, con experiencia en desarrollo Full Stack, ingenie
 
 <h3 align="center">Frontend y desarrollo móvil</h3>
 <p align="center">
-  <img src="https://i.icoziv.workers.dev/icons?i=reactjs,nextjs,angularjs,ionic,tailwindcss" alt="React, Next.js, Angular, Ionic y Tailwind CSS" />
+  <img src="https://i.icoziv.workers.dev/icons?i=reactjs,nextjs,angularjs,astro,ionic,tailwindcss" alt="React, Next.js, Astro, Angular, Ionic y Tailwind CSS" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://i.icoziv.workers.dev/icons?i=nodejs,django,prisma,rest" alt="Node.js, Django, Prisma ORM y API REST" />
+  <img src="https://i.icoziv.workers.dev/icons?i=nodejs,expressjs,fastapi,django,prisma,rest" alt="Node.js, ExpressJS, FastApi, Django, Prisma ORM y API REST" />
 </p>
 
 <h3 align="center">Bases de datos e ingeniería de datos</h3>
 <p align="center">
-  <img src="https://i.icoziv.workers.dev/icons?i=postgresql,oracle,firestore" alt="PostgreSQL, Oracle Database y Firebase Firestore" />
-  <br />Modelado analítico · Data Warehouses · Pipelines ETL
+  <img src="https://i.icoziv.workers.dev/icons?i=postgresql,sqlite,oracle,firestore" alt="PostgreSQL, Sqlite, Oracle Database y Firebase Firestore" />
 </p>
 
 <h3 align="center">Cloud, herramientas y gestión</h3>
