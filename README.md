@@ -9,26 +9,22 @@ Viña del Mar, Chile · [Portafolio](https://thomi.dev) · [LinkedIn](https://li
 
 Soy Ingeniero en Informática, con experiencia en desarrollo Full Stack, ingeniería de datos y gestión ágil con Scrum. Me motiva crear soluciones que conecten software y necesidades reales del negocio: desde aplicaciones web y móviles hasta pipelines ETL y plataformas de analítica.
 
-He diseñado procesos para extraer y transformar más de **168.000 registros históricos** sin interrumpir la operación, y he colaborado liderando equipos y entregas para clientes reales. Me interesa seguir creciendo en desarrollo Full Stack, desarrollo móvil e ingeniería de datos.
-
-## Experiencia destacada
-
-- **Farmacias Maira — Scrum Master & Desarrollador Full Stack:** lideré la planificación y arquitectura de una plataforma de Business Intelligence; desarrollé pipelines ETL, modelé datos analíticos en PostgreSQL e integré funciones de generación de informes y predicción de demanda.
-- **Enerch — Desarrollador Full Stack:** desarrollé su plataforma web corporativa e integré Contentful para que el equipo pudiera gestionar el contenido de forma autónoma.
-- **Duoc UC — Ayudante de Desarrollo de Aplicaciones Móviles:** guié a más de 30 estudiantes en desarrollo móvil con Angular e Ionic.
-
 ## Tecnologías
 
-- **Lenguajes:** TypeScript, JavaScript, Python, Java, SQL, HTML y CSS
-- **Frontend y móvil:** React, Next.js, Angular, Ionic, Tailwind CSS
-- **Backend:** Node.js, Django, Prisma ORM, API REST
-- **Datos:** PostgreSQL, Oracle Database, Firebase Firestore, modelado analítico, Data Warehouses y pipelines ETL
-- **Cloud y herramientas:** Microsoft Azure, Git, GitHub, Contentful, Vercel, Netlify, Jira y Trello
+| Categoría | Tecnologías |
+|---|---|
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css" alt="TypeScript, JavaScript, Python, Java, HTML y CSS" /><br>TypeScript · JavaScript · Python · Java · SQL · HTML · CSS |
+| **Frontend y móvil** | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ionic,tailwind" alt="React, Next.js, Angular, Ionic y Tailwind CSS" /><br>React · Next.js · Angular · Ionic · Tailwind CSS |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,django,prisma" alt="Node.js, Django y Prisma ORM" /><br>Node.js · Django · Prisma ORM · API REST |
+| **Bases de datos e ingeniería de datos** | <img src="https://skillicons.dev/icons?i=postgres,firebase" alt="PostgreSQL y Firebase" /><br>PostgreSQL · Oracle Database · Firebase Firestore · Modelado analítico · Data Warehouses · Pipelines ETL |
+| **Cloud, hosting y control de versiones** | <img src="https://skillicons.dev/icons?i=azure,git,github,vercel,netlify" alt="Microsoft Azure, Git, GitHub, Vercel y Netlify" /><br>Microsoft Azure · Git · GitHub · Vercel · Netlify |
+| **CMS y gestión** | Contentful · Jira · Trello |
 
-## Proyectos destacados
+## Tecnologías que estoy aprendiendo
 
-- **Lagna — Aplicación de planificación de bodas:** app móvil desarrollada con Ionic y Angular, con planificación de presupuesto, gestión de invitados y búsqueda geolocalizada de lugares. Usa Firebase Firestore y API REST.
-- **ShiripaStore — E-commerce de videojuegos digitales:** plataforma de comercio electrónico desarrollada con Django, Python y PostgreSQL, con control de acceso por roles, catálogo, compras y administración.
+<img src="https://skillicons.dev/icons?i=spring,cs,cpp" alt="Spring Boot, C# y C++" />
+
+Spring Boot · C# · C++
 
 ## Certificaciones e idiomas
 
