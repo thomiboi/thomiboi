@@ -1,9 +1,21 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F0F6FC&width=800&lines=Hola%2C+soy+Thomas+%F0%9F%91%8B;Ingeniero+en+Inform%C3%A1tica;Desarrollo+Full+Stack+%7C+Datos+%7C+Aplicaciones+m%C3%B3viles">
-  <img alt="Hola, soy Thomas, ingeniero en Informática con experiencia en desarrollo Full Stack, datos y aplicaciones móviles." src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1F2328&width=800&lines=Hola%2C+soy+Thomas+%F0%9F%91%8B;Ingeniero+en+Inform%C3%A1tica;Desarrollo+Full+Stack+%7C+Datos+%7C+Aplicaciones+m%C3%B3viles">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F0F6FC&size=32&height=120&width=1000&center=true&vCenter=true&lines=Hola%2C+soy+Thomas+%F0%9F%91%8B;Ingeniero+en+Inform%C3%A1tica;Desarrollo+Full+Stack+%7C+Datos+%7C+Aplicaciones+m%C3%B3viles">
+  <img alt="Hola, soy Thomas, ingeniero en Informática con experiencia en desarrollo Full Stack, datos y aplicaciones móviles." src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=1F2328&size=32&height=120&width=1000&center=true&vCenter=true&lines=Hola%2C+soy+Thomas+%F0%9F%91%8B;Ingeniero+en+Inform%C3%A1tica;Desarrollo+Full+Stack+%7C+Datos+%7C+Aplicaciones+m%C3%B3viles">
 </picture>
 
-Viña del Mar, Chile · [Portafolio](https://thomi.dev) · [LinkedIn](https://linkedin.com/thomidev) · [Correo](mailto:contacto@thomi.dev)
+<p align="center">
+  <a href="https://thomi.dev">
+    <img src="https://img.shields.io/badge/Portafolio-Visitar-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar portafolio" />
+  </a>
+  <a href="https://linkedin.com/thomidev">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn" />
+  </a>
+  <a href="mailto:contacto@thomi.dev">
+    <img src="https://img.shields.io/badge/Correo-Cont%C3%A1ctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
+  </a>
+</p>
+
+<p align="center">📍 Viña del Mar, Chile</p>
 
 ## Sobre mí
 
@@ -48,3 +60,4 @@ Soy Ingeniero en Informática, con experiencia en desarrollo Full Stack, ingenie
 - Scrum Foundation Professional Certificate (SFPC™) — CertiProf, 2024
 - Microsoft Azure Fundamentals (AZ-900), 2023
 - Español nativo · Inglés B2 profesional (TOEIC)
+
